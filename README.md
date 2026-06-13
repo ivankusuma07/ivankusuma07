@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**ivankusuma07/ivankusuma07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Ivan 👋
+ 
+Frontend Engineer with 7+ years in Vue.js & Nuxt.js, building scalable web & desktop apps. Passionate about clean UI, real-time features, and pushing into AI tooling & backend.
 
-Here are some ideas to get you started:
+# Frontend Engineer
+ 
+- 🌍 Indonesia
+- 📧 You can contact me at ivankusuma07@gmail.com
+- 🤝 I'm open for collaborating on interesting projects
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+ 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ivankusuma07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivankusuma07&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
