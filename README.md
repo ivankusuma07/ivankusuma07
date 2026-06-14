@@ -14,9 +14,9 @@ Frontend Engineer with 7+ years in Vue.js & Nuxt.js, building scalable web & des
  
 <table>
   <tr>
-    <td>
+    <!-- <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ivankusuma07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
+    </td> -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivankusuma07&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
