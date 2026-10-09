@@ -5,7 +5,6 @@ Frontend Engineer with 7+ years in Vue.js & Nuxt.js, building scalable web & des
 
 # Frontend Engineer
  
-- 🌍 Indonesia
 - 📧 You can contact me at ivankusuma07@gmail.com
 - 🤝 I'm open for collaborating on interesting projects
 ---
